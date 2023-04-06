@@ -1,2 +1,3 @@
 # In21-CS2023
-Code for CS2023 module (Intake 21)
+
+C++ code-files for excercises/assignments done under **CS2023 Data Structures & Algorithms** module (Intake 21).
